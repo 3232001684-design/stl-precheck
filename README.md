@@ -38,14 +38,14 @@ They're documented in the article
 
 What costs real engineering time is everything *around* the checks:
 
-- **[Mesh Rescue](https://boshen3d.gumroad.com/l/guzgnx)** — the full toolkit:
+- **[Mesh Rescue](https://4696660295583.gumroad.com/l/guzgnx)** — the full toolkit:
   automatic hole closing with convergence reporting, duplicate/degenerate face
   cleanup, quadric decimation (PyMeshLab-backed, boundary-preserving), print-bed
   orientation scoring, and calibrated export to STL/OBJ/PLY.
-- **[G-code Tuner](https://boshen3d.gumroad.com/l/thywm)** — post-slice
+- **[G-code Tuner](https://4696660295583.gumroad.com/l/thywm)** — post-slice
   G-code post-processing: z-hop cleanup with per-segment control, fan speed
   floors, speed scaling and caps, print-time re-estimation. Zero dependencies.
-- **[PrintIQ](https://boshen3d.gumroad.com/l/ubtppt)** — the production
+- **[PrintIQ](https://4696660295583.gumroad.com/l/ubtppt)** — the production
   layer: multi-part bed packing with collision guarantees, batch scheduling
   across multiple printers, slicer time/cost estimation, and TPMS lattice
   generation (gyroid/diamond) with measured-vs-target density reporting.
